@@ -37,4 +37,5 @@ Our Cloud Run:
 Our App engine
 ![image](https://github.com/user-attachments/assets/b58be78c-96a4-411f-8dbf-37eb703b701f)
 
-
+END POINT BACKEND: https://backend-877036409345.asia-southeast2.run.app
+END POINT MODEL:https://model-api-877036409345.asia-southeast2.run.app
